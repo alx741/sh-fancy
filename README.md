@@ -1,4 +1,4 @@
-# Fancy message display for SH scripts
+# Fancy message display for Shell Scripts
 
 Tiny little library for fancy `info`, `warning`, `error` and `success` message
 printing for Shell (bash, zsh, etc.) scripts.
